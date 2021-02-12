@@ -25,7 +25,10 @@ This code uses Gaussian Mixture Models to cluster the points into 4 clusters and
 The performance is measured by finding the Root Mean Square Error, across 100x4 points each in output_train.csv and train_ground_truth.csv
 
 The RMSE of the baseline algorithm implemented may vary due to the random nature of Gaussian Mixture Models.
-The RMSE given by the baseline code has been observed to vary between 35.00 and 36.00. 
+The RMSE given by the baseline code has been observed to vary between 35.00 and 36.00.
+
+The code can also be used to find RMSE for the rectangles independantly. 
+However, the objective is to minimize the one for 100x4 points.
 
 ### Objective for the participants
 
