@@ -33,8 +33,11 @@ Modify the GenerateLineModels(data,labels) function to meet the following object
    
 ### Hints
 Only objective 1
-    1. Apply PCA to project the points in each of the clusters on the principle eigen vector before regression. 
+
+    1. Apply PCA to project the points in each of the clusters on the principle eigen vector before regression.
+    
 Both objective 1 and 2
+
     2. Use the slopes from the linear regression on each of the clusters and find a single slope representing the whole data. 
     3. Use the slopes from the PCA on each of the clusters and find a single slope representing the whole data.
     4. The lines should pass through each of the cluster center.
