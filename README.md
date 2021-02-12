@@ -38,7 +38,8 @@ Modify the GenerateLineModels(data,labels) function to meet the following object
    Currently, slopes of all the lines of the rectangle are different, making it actually a quadrilateral.
    Slopes of parallel lines should be the same and the perpendicular lines should be related (m1 x m2 = -1)
    
-### Hints
+### Few Hints
+
 Only objective 1
 
     1. Apply PCA to project the points in each of the clusters on the principle eigen vector before regression.
@@ -49,3 +50,7 @@ Both objective 1 and 2
     The lines should pass through respective cluster centers.                
     3. Use the slopes from the PCA on each of the clusters and find a single slope representing the whole data. 
     The lines should pass through respective cluster centers.
+    
+There can be more ways to deal with the problem of different slopes more elegantly.
+
+#### Lets see which submitted solution leads to the best RMSE performance.
