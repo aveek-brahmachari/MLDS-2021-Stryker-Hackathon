@@ -42,5 +42,7 @@ Only objective 1
     
 Both objective 1 and 2 
 
-    2. Use the slopes from the linear regression on each of the clusters and find a single slope representing the whole data. The lines should pass through respective cluster centers.                
-    3. Use the slopes from the PCA on each of the clusters and find a single slope representing the whole data. The lines should pass through respective cluster centers.
+    2. Use the slopes from the linear regression on each of the clusters and find a single slope representing the whole data. 
+    The lines should pass through respective cluster centers.                
+    3. Use the slopes from the PCA on each of the clusters and find a single slope representing the whole data. 
+    The lines should pass through respective cluster centers.
