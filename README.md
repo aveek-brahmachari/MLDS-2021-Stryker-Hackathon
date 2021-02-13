@@ -2,6 +2,8 @@
 
 ![problem](https://user-images.githubusercontent.com/78955446/107764713-a9e67580-6d56-11eb-8889-600d8b4a4163.jpg)
 
+### Email your solutions to ContactRnD@stryker.com with Subject: MLDS-2021-Stryker-Hackathon by 15th Feb 2021 EOD
+### Leaderboard will be published here by 16th Feb 2021 EOD.
 
 ## Detailed Description
 This repository contains data and code for a problem solving session in MDLS 2021 on detection of rectangles from a set of noisy point data.
